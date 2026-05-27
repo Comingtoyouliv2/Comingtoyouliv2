@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 `/live-trading`
+## 📈 `~/live-trading`
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 Fully on-chain Hyperliquid trading journal — every fill independently verifiable on the L1. Dashboard updates every few seconds; this card refreshes every 5 minutes.
 
-## 🛠 `/projects`
+## 🛠 `~/projects`
 
 <table>
 <tr>
@@ -80,5 +80,16 @@ The rest of the repos — orderbook experiments, quant prototypes, infra notes.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1e1e1e?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `~/stats`
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Comingtoyouliv2?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/Comingtoyouliv2?affiliations=OWNER&label=Total%20stars&style=for-the-badge&color=58a6ff&labelColor=0d1117)
 
 </div>
