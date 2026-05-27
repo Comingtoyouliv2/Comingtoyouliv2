@@ -12,21 +12,7 @@
 
 ---
 
-## `~/whoami`
-
-```python
-felix = {
-    "role"     : "Software Engineer · Quant / Trading Infra student",
-    "focus"    : ["low-latency systems", "market microstructure", "DeFi risk"],
-    "stack"    : ["C++", "Python", "TypeScript", "Solidity"],
-    "based_in" : "New York",
-    "currently": "building orderbook engines & decomposing DeFi yield",
-}
-```
-
-I build the plumbing under markets — limit orderbooks, matching engines, and quant tooling — and study how risk actually moves through DeFi.
-
-## `~/live-trading`
+## 📈 `~/live-trading`
 
 <div align="center">
 
@@ -36,23 +22,54 @@ I build the plumbing under markets — limit orderbooks, matching engines, and q
 
 Fully on-chain Hyperliquid trading journal — every fill independently verifiable on the L1. Dashboard updates every few seconds; this card refreshes every 5 minutes.
 
-## `~/projects`
+## 🛠 `~/projects`
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<a href="https://github.com/Comingtoyouliv2/DayTradingResult">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Comingtoyouliv2&repo=DayTradingResult&theme=transparent&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&hide_border=true" />
-</a>
-<a href="https://github.com/Comingtoyouliv2/binance_sim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Comingtoyouliv2&repo=binance_sim&theme=transparent&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&hide_border=true" />
-</a>
-<a href="https://github.com/Comingtoyouliv2/initFarm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Comingtoyouliv2&repo=initFarm&theme=transparent&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&hide_border=true" />
-</a>
+### 📊 [DayTradingResult](https://github.com/Comingtoyouliv2/DayTradingResult)
 
-</div>
+Public on-chain trading journal. Pulls every fill, position, and PnL straight from Hyperliquid's L1 clearinghouse. Real-time dashboard + SVG embed for READMEs.
 
-## `~/stack`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Hyperliquid](https://img.shields.io/badge/Hyperliquid-1f6feb?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### ⚡ [binance_sim](https://github.com/Comingtoyouliv2/binance_sim)
+
+Low-latency limit orderbook simulator in C++. Price-time priority matching, microsecond latency. Designed as a teaching reference for systems-level market plumbing.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HFT](https://img.shields.io/badge/HFT-1f6feb?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🌾 [initFarm](https://github.com/Comingtoyouliv2/initFarm)
+
+Decomposes DeFi yields into risk-adjusted return distributions using TradFi frameworks. Quant tooling for evaluating on-chain yield strategies.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-58a6ff?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### 🗂 [More →](https://github.com/Comingtoyouliv2?tab=repositories)
+
+The rest of the repos — orderbook experiments, quant prototypes, infra notes.
+
+</td>
+</tr>
+</table>
+
+## ⚙️ `~/stack`
 
 <div align="center">
 
@@ -60,7 +77,7 @@ Fully on-chain Hyperliquid trading journal — every fill independently verifiab
 
 </div>
 
-## `~/stats`
+## 📊 `~/stats`
 
 <div align="center">
 
