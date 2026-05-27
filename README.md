@@ -73,15 +73,12 @@ The rest of the repos — orderbook experiments, quant prototypes, infra notes.
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=cpp,python,ts,solidity,react,nextjs,linux,git&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-## 📊 `~/stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Comingtoyouliv2&show_icons=true&count_private=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comingtoyouliv2&layout=compact&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=true&langs_count=8" />
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-1e1e1e?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
