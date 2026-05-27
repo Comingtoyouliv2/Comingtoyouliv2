@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 `~/live-trading`
+## 📈 `/live-trading`
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 Fully on-chain Hyperliquid trading journal — every fill independently verifiable on the L1. Dashboard updates every few seconds; this card refreshes every 5 minutes.
 
-## 🛠 `~/projects`
+## 🛠 `/projects`
 
 <table>
 <tr>
