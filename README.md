@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 `~/live-trading`
+## 📈 `live-trading`
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 Fully on-chain Hyperliquid trading journal — every fill independently verifiable on the L1. Dashboard updates every few seconds; this card refreshes every 5 minutes.
 
-## 🛠 `~/projects`
+## 🛠 `projects`
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ Fully on-chain Hyperliquid trading journal — every fill independently verifiab
 
 ### 📊 [DayTradingResult](https://github.com/Comingtoyouliv2/DayTradingResult)
 
-Public on-chain trading journal. Pulls every fill, position, and PnL straight from Hyperliquid's L1 clearinghouse. Real-time dashboard + SVG embed for READMEs.
+Public on-chain trading record. Pulls every fill, position, and PnL straight from Hyperliquid's L1 clearinghouse. Real-time dashboard + SVG embed for READMEs.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -69,7 +69,7 @@ The rest of the repos — orderbook experiments, quant prototypes, infra notes.
 </tr>
 </table>
 
-## ⚙️ `~/stack`
+## ⚙️ `stack`
 
 <div align="center">
 
@@ -82,6 +82,16 @@ The rest of the repos — orderbook experiments, quant prototypes, infra notes.
 ![OpenCode](https://img.shields.io/badge/OpenCode-1e1e1e?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
+
+## 🪙 `tokens`
+
+<div align="center">
+
+[![Tokscale](https://tokscale.ai/api/embed/Comingtoyouliv2/svg?sort=cost&compact=1)](https://tokscale.ai/u/Comingtoyouliv2)
+
+</div>
+
+Daily AI spend across Claude, GPT, and OpenCode — tracked live by [Tokscale](https://tokscale.ai/u/Comingtoyouliv2).
 
 ---
 
