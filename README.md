@@ -95,7 +95,7 @@ Daily AI spend across Claude, GPT, and OpenCode — tracked live by [Tokscale](h
 
 ---
 
-## 📊 `~/stats`
+## 📊 `stats`
 
 <div align="center">
 
