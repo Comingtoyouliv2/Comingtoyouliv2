@@ -12,6 +12,19 @@
 
 ---
 
+
+## 🪙 `tokens`
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Comingtoyouliv2/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/Comingtoyouliv2)
+
+</div>
+
+Daily AI spend across Claude, Codex, and OpenCode — tracked live by [Tokscale](https://tokscale.ai/u/Comingtoyouliv2).
+
+---
+
 ## 📈 `live-trading`
 
 <div align="center">
@@ -83,17 +96,6 @@ The rest of the repos — orderbook experiments, quant prototypes, infra notes.
 
 </div>
 
-## 🪙 `tokens`
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/Comingtoyouliv2/svg?view=3d&tokens=compact&cost=compact)](https://tokscale.ai/u/Comingtoyouliv2)
-
-</div>
-
-Daily AI spend across Claude, Codex, and OpenCode — tracked live by [Tokscale](https://tokscale.ai/u/Comingtoyouliv2).
-
----
 
 ## 📊 `stats`
 
