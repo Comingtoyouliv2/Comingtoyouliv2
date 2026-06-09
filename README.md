@@ -1,17 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=210&section=header&text=Felix%20Choi&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Quant%20%C2%B7%20Trading%20Infra%20%C2%B7%20NYC&descAlignY=60&descSize=18&animation=fadeIn)
-
-<div align="center">
-
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=400&color=58A6FF&center=true&vCenter=true&width=600&lines=Low-latency+systems;Market+microstructure;DeFi+risk;Public+on-chain+trader)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-c-45016831b/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/icybear01)
-[![Website](https://img.shields.io/badge/felix.trading-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://daytradingresult.vercel.app/)
-
-</div>
-
----
-
 
 ## 🪙 `tokens`
 
